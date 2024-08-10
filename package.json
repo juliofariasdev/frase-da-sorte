@@ -1,0 +1,15 @@
+{
+  "name": "frase-sorte",
+  "version": "1.0.0",
+  "description": "Uma aplicação informa uma frase da sorte referente ao dia do aniversário.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "juliofariasdev",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "type": "module"
+}
